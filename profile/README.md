@@ -15,4 +15,4 @@ Can a healthy and sustainable life be fun ?
 Team Healthy habits says yes! Our mission is to help people build healthy habits by creating a platform to share your experience with friends.
 It provides small daily challenges and motivates people to share a fun picture of them completing the challenge.
 
--- inspired by TUM: Junge Akademie 
+-- inspired by [TUM: Junge Akademie](https://ja.tum.de)
